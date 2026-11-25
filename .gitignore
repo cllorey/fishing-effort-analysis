@@ -1,3 +1,6 @@
+# Data folder
+data/
+
 # History files
 .Rhistory
 .Rapp.history
@@ -39,9 +42,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 .env
-
-# pkgdown site
-docs/
 
 # translation temp files
 po/*~

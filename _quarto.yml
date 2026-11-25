@@ -1,0 +1,7 @@
+```yaml
+project:
+  output-dir: docs
+  execute-dir: project
+  render:
+    - reports/blog-post.qmd
+```
