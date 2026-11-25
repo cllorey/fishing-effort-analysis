@@ -6,7 +6,7 @@
 </p>
 
 ## About
-This repository contains data and code for an analysis of US fishing effort before, during, and after COVID.
+This repository contains data and code for an analysis and [blog post](https://cllorey.github.io/fishing-effort-analysis/reports/blog-post.html) investigating the impact of the COVID-19 pandemic on US fishing effort.
 
 ## Repository Structure
 

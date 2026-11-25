@@ -1,0 +1,50 @@
+---
+title: "Catchy Title Pending"
+author: "Courtney Lorey, Bren School of Environmental Science & Management, University of California, Santa Barbara"
+date: "2026-12-11"
+format: html
+---
+
+[image]
+
+### Background
+
+### Data
+
+### Methods 
+
+### Results
+
+### Discussion
+
+
+
+### Rubric (to be deleted)
+
+#### Question and data (15%)
+- [ ] The blog post provides context and background for the question
+- [ ] The data are explained using text and figures
+- [ ] The theorized causal relationships are described with a DAG
+
+#### Statistical model (35%)
+
+- [ ] The statistical model is explained conceptually and using formal statistical notation
+- [ ] The choice of model is justified based on the characteristics of the data and model assumptions
+- [ ] Potential limitations of the model and data are considered
+
+#### Inference (35%)
+
+- [ ] Hypotheses are stated in plain language and with visualizations
+- [ ] Model estimates are presented with appropriate uncertainty
+- [ ] A hypothesis is tested and the evidence is interpreted
+
+#### Professionalism (15%)
+
+- [ ] The overall appearance of the blog post (e.g., figures, code outputs) is portfolio-quality
+- [ ] The writing is comprehensible to a technical audience
+- [ ] The project repository is well-organized and appropriately documented
+
+
+#### Questions for feedback
+Should the final blog post display any code or no?
+How can we eventually link this to our personal websites? 
