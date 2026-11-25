@@ -37,4 +37,6 @@ The data for this analysis is not housed in this repository. Fishing effort data
 
 [EXAMPLE REFERENCE FORMAT BELOW - UPDATE/REPLACE]
 
+Flanders Marine Institute (2024). The intersect of the Exclusive Economic Zones and IHO sea areas, version 5. Available online at https://www.marineregions.org/. https://doi.org/10.14284/699
+
 County of Los Angeles. (2025). *Palisades and Eaton Dissolved Fire Perimeters* [Data set]. LA County Open Data. Retrieved November 2026, from [https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about](https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about)
