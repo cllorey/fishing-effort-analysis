@@ -3,6 +3,7 @@
 library(tidyverse)
 library(sf)
 library(tmap)
+library(gfwr) # Installed package per gfwr documentation
 
 # Import marine regions EEZ/IHO spatial data
 fp <- "/home/clorey/MEDS/eds222/fishing-effort-analysis/data/Intersect_EEZ_IHO_v5_20241010/Intersect_EEZ_IHO_v5_20241010.shp"
@@ -20,3 +21,11 @@ st_crs(us)
 
 # Look at marine regions
 unique(us$MarRegion)
+
+# Filter for areas of interest: Atlantic, Pacific, and Gulf (GFW already has HI and AK polygons) 
+us_aoi <- us |> 
+  filter(MarRegion == "United States part of the North Pacific Ocean" | MarRegion == "United States part of the North Atlantic Ocean" | MarRegion == "United States part of the Gulf of Mexico")
+
+# Check shape
+tm_shape(us_aoi) +
+  tm_polygons()
