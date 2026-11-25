@@ -1,4 +1,4 @@
-# Visualizing Fire Scars from the 2025 Eaton and Palisades Fires
+# Fishing Effort Analysis
 
 ![Global Fishing Watch](images/GFW-map-2026-11-25T06-37-54.png)
 <p align="center">
